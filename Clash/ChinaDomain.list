@@ -321,8 +321,8 @@ DOMAIN-SUFFIX,pinduoduo.net
 DOMAIN-SUFFIX,pddpic.com
 DOMAIN-SUFFIX,yangkeduo.com
 IP-CIDR,117.144.229.0/24,no-resolve
-IP-CIDR,117.110.96.0/24,no-resolve
-IP-CIDR,117.110.97.0/24,no-resolve
+IP-CIDR,114.110.96.0/24,no-resolve
+IP-CIDR,114.110.97.0/24,no-resolve
 
 # Sina
 DOMAIN-SUFFIX,leju.com
