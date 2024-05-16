@@ -320,6 +320,7 @@ DOMAIN-SUFFIX,pinduoduo.com
 DOMAIN-SUFFIX,pinduoduo.net
 DOMAIN-SUFFIX,pddpic.com
 DOMAIN-SUFFIX,yangkeduo.com
+USER-AGENT,phh_plat*
 IP-CIDR,117.144.229.0/24,no-resolve
 IP-CIDR,114.110.96.0/24,no-resolve
 IP-CIDR,114.110.97.0/24,no-resolve
