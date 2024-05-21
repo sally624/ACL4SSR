@@ -1,6 +1,25 @@
 # 包含常用应用的各种去广告规则。
 # 可能有轻微副作用，可放心使用。（如果网站功能和广告冲突，会删掉去广告规则）
 
+# 虎牙
+# DOMAIN-SUFFIX,metric.huya.com
+# DOMAIN-SUFFIX,ylog.huya.com
+# DOMAIN-SUFFIX,statwup.huya.com
+# DOMAIN-SUFFIX,va.huya.com
+DOMAIN-SUFFIX,adsmind.gdtimg.com
+DOMAIN-SUFFIX,huyaimg.msstatic.com
+DOMAIN-SUFFIX,hm.baidu.com
+DOMAIN-SUFFIX,business.msstatic.com
+DOMAIN-SUFFIX,3dm.huya.com
+DOMAIN-SUFFIX,static-jw.msstatic.com
+DOMAIN-SUFFIX,ext.huya.com
+DOMAIN-SUFFIX,sdk.e.qq.com
+DOMAIN-SUFFIX,tangram.e.qq.com
+DOMAIN-SUFFIX,v.gdt.qq.com
+DOMAIN-SUFFIX,rpt.gdt.qq.com
+DOMAIN-SUFFIX,ii.gdt.qq.com
+DOMAIN-SUFFIX,ldy.gudegame.net
+
 # 163
 DOMAIN-SUFFIX,a.youdao.com
 DOMAIN-SUFFIX,adgeo.corp.163.com
