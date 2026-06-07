@@ -9,6 +9,12 @@ DOMAIN-SUFFIX,vm.talkatone.com
 # 贴图服务地址，一般需要代理
 DOMAIN-SUFFIX,tenor.com
 
+#bigolive
+DOMAIN-SUFFIX,msftconnecttest.com
+IP-CIDR,58.217.207.0/24,no-resolve
+IP-CIDR,39.145.33.0/24,no-resolve
+IP-CIDR,113.105.147.0/24,no-resolve
+
 # Apple
 # 一般国内Apple肯定正常,不需要开代理
 DOMAIN,apple.comscoreresearch.com
