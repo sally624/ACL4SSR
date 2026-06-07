@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,tenor.com
 
 #bigolive
 DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,pan.baidu.com
 IP-CIDR,58.217.207.0/24,no-resolve
 IP-CIDR,39.145.33.0/24,no-resolve
 IP-CIDR,113.105.147.0/24,no-resolve
