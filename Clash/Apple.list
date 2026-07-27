@@ -17,6 +17,12 @@ IP-CIDR,113.105.147.0/24,no-resolve
 IP-CIDR,211.95.159.0/24,no-resolve
 IP-CIDR,163.177.78.0/24,no-resolve
 
+
+#HSBC HK
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,mobile.eum-appdynamics.com
+DOMAIN-SUFFIX,tiqcdn.com
+
 # Apple
 # 一般国内Apple肯定正常,不需要开代理
 DOMAIN,apple.comscoreresearch.com
